@@ -18,8 +18,7 @@ Contains the hello_world script
 
 * Install node on your home computer by downloading it [here](https://nodejs.org/en/). Take the latest features release.
 
-* Try running today's script with `node hello_world.js`
-⋅⋅* You will need to run this is termial on [mac](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line) or [cmd](https://www.lifewire.com/how-to-open-command-prompt-2618089) on windows
+* Try running today's script with `node hello_world.js`. You will need to run this is termial on [mac](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line) or [cmd](https://www.lifewire.com/how-to-open-command-prompt-2618089) on windows
 
 * Go to [Code Academy](https://www.codecademy.com/learn/introduction-to-javascript) and take the free lessons from their Introduction to JavaScript - up to lesson 2. You can carry on if you want but what we do will be slightly different. I wouldn't go past 5 at this stage.
 
