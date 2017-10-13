@@ -1,4 +1,4 @@
-# DEV0028-Web Apps with Javascript
+# Web Apps with Javascript
 
 This repo cotains all the code to go alongside the sessions we've been doing in work. It will get updated as I create the lessons!
 You can use it for resference or to see what's coming up
@@ -25,3 +25,5 @@ Contains the hello_world script
 
 * Try running some of the code academy examples in node on you machine. You can write in nodepad but downloading [vs code](https://code.visualstudio.com/) will help. It's text editor specifically for code.
 
+
+## 1.2 Functions
