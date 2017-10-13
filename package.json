@@ -1,0 +1,26 @@
+{
+  "name": "js-development",
+  "version": "1.0.0",
+  "description": "Training for staff on JavaScript web app development",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha -w",
+    "1.1": "nodemon 1.1/hello_world.js",
+    "1.2": "nodemon 1.2/1.2.js",
+    "1.3": "nodemon 1.3/1.3.js",
+    "1.3.immutable": "nodemon 1.3/1.3.immutable.js",
+    "1.4.1": "nodemon 1.4/1.4.1.js",
+    "1.4.2": "nodemon 1.4/1.4.2.js",
+    "1.4.3": "nodemon 1.4/1.4.3.js",
+    "1.5.1": "nodemon 1.5/1.5.1.js",
+    "1.5.2": "nodemon 1.5/1.5.2.js",
+    "1.6.1": "nodemon 1.6/1.6.1.js"
+  },
+  "author": "Seamus Foley",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3",
+    "nodemon": "^1.12.1"
+  }
+}
