@@ -24,5 +24,9 @@ Contains the hello_world script
 
 * Try running some of the code academy examples in node on you machine. You can write in nodepad but downloading [vs code](https://code.visualstudio.com/) will help. It's text editor specifically for code.
 
+#### Extras
+
+* In this session I mentioned when talking about [Brendan Eich](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Brendan_Eich_Mozilla_Foundation_official_photo.jpg/220px-Brendan_Eich_Mozilla_Foundation_official_photo.jpg) that computing since the mid 80s has been dominated by non-descript white males. This wasn't always the case. Many of the pioneers in early computing were female. This podcast has an interesting economic theory as to why that changed. With a number of tech companies like [Uber][https://www.theguardian.com/technology/2017/jun/13/david-bonderman-resigns-uber-board-sexist-remark] and [Google](https://motherboard.vice.com/en_us/article/kzbm4a/employees-anti-diversity-manifesto-goes-internally-viral-at-google) currently making a hash of gender diversity, I think it is helpful for us as a educational organization that encourages our visitors to follow their interests rather than their gender, to remember that in the context of coding gender equality isn't about breaking new ground, but rather reclaiming the old.
+
 
 ## 1.2 Functions
