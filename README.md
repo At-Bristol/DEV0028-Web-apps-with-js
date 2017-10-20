@@ -30,6 +30,8 @@ Contains the hello_world script
 
 ## 1.2 Functions
 
+#### Post-lesson exercises
+
 * Have a look at [w3schools](https://www.w3schools.com/js/js_if_else.asp) talking about if ... else statements.
 
 * Make timesThreeRepeating stop
