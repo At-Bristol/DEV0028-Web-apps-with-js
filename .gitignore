@@ -2,6 +2,7 @@
 logs
 *.log
 *.pdf
+*.psd
 *.key
 *.pages
 npm-debug.log*
@@ -59,4 +60,5 @@ typings/
 
 # dotenv environment variables file
 .env
+
 

@@ -28,5 +28,16 @@ Contains the hello_world script
 
 * In this session I mentioned when talking about [Brendan Eich](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Brendan_Eich_Mozilla_Foundation_official_photo.jpg/220px-Brendan_Eich_Mozilla_Foundation_official_photo.jpg) that computing since the mid 80s has been dominated by non-descript white males. This wasn't always the case. Many of the pioneers in early computing were female. [This podcast has an interesting economic theory as to why that changed](http://www.npr.org/sections/money/2016/07/22/487069271/episode-576-when-women-stopped-coding). With a number of tech companies like [Uber](https://www.theguardian.com/technology/2017/jun/13/david-bonderman-resigns-uber-board-sexist-remark) and [Google](https://motherboard.vice.com/en_us/article/kzbm4a/employees-anti-diversity-manifesto-goes-internally-viral-at-google) currently making a hash of gender diversity, I think it is helpful for us as a educational organization that encourages our visitors to follow their interests rather than their gender, to remember that in the context of coding gender equality isn't about breaking new ground, but rather reclaiming the old.
 
-
 ## 1.2 Functions
+
+* Have a look at [w3schools](https://www.w3schools.com/js/js_if_else.asp) talking about if ... else statements.
+
+* Make timesThreeRepeating stop
+
+* Check out the solution in the 1.2 folder
+
+* Watch [funfunfunction on recursion](https://www.youtube.com/watch?v=k7-N8R0-KY4) ... there may be stuff we haven't covered but we will cover it soon.
+
+* Bring questions for next time!
+
+## 1.2 Objects
