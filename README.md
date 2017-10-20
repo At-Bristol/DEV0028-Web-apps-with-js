@@ -17,7 +17,7 @@ Slides can be found [here](https://drive.google.com/open?id=0B_5SlMKap8CyUUE1Tng
 
 * type `npm install`
 
-* type `npm run 1.2`  or whichever examples you wish to run  
+* type `npm run 1.2`  - or whichever example you wish to run  
 
 
 
