@@ -7,6 +7,20 @@ You can use it for resference or to see what's coming up
 
 Slides can be found [here](https://drive.google.com/open?id=0B_5SlMKap8CyUUE1TngxaGNha1U)
 
+### Using this repo on your own computer
+
+* Download [git](https://git-scm.com/downloads) (another command line tool)
+
+* In your terminal go `git clone https://github.com/At-Bristol/DEV0028-Web-apps-with-js` 
+
+* type `cd DEV0028-Web-apps-with-js` to enter new folder
+
+* type `npm install`
+
+* type `npm run 1.2`  or whichever examples you wish to run  
+
+
+
 
 ## 1.1 Introduction to javascript
 
@@ -46,4 +60,4 @@ Found in 1.2 folder
 
 * Bring questions for next time!
 
-## 1.2 Objects
+## 1.3 Objects
