@@ -14,7 +14,8 @@
     "1.4.3": "nodemon 1.4/1.4.3.js",
     "1.5.1": "nodemon 1.5/1.5.1.js",
     "1.5.2": "nodemon 1.5/1.5.2.js",
-    "1.6.1": "nodemon 1.6/1.6.1.js"
+    "1.6.1": "nodemon 1.6/1.6.1.js",
+    "1.6.2": "nodemon 1.6/1.6.2.js"
   },
   "author": "Seamus Foley",
   "license": "ISC",
@@ -22,5 +23,9 @@
     "chai": "^4.1.2",
     "mocha": "^3.5.3",
     "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "node-fetch": "^1.7.3",
+    "npm-fetch": "0.0.9"
   }
 }

@@ -24,7 +24,8 @@ const haircut= (person, newHaircut) => {
 };
 
 //let works like const but lets you rassign the same name to a new object
-//you should always favour cost over let.
+//you should always favour cost over let. 
+//We're going to start 1.4 talking about the difference
 
 let nsync = {
   justin: 'frosted tips',
