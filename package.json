@@ -25,6 +25,7 @@
     "nodemon": "^1.12.1"
   },
   "dependencies": {
-    "node-fetch": "^1.7.3"
+    "node-fetch": "^1.7.3",
+    "npm-fetch": "0.0.9"
   }
 }

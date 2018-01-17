@@ -27,4 +27,3 @@ getPostcodeData('BS5 0AF')
   .then(e => e.sub_domain_children_and_young_people_decile)
   .then(e => console.log('Decile ' + e))
 
-
