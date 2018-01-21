@@ -5,11 +5,19 @@
   </head>
   <body>
     <h2>Look Up Postcode</h2>
-    <Form id="postcodeForm">
-      Postcode: <input />
-      <input type="button" value='look up' onclick="submitForm()">
+    <Form>
+      Postcode: <input id="postcodeForm"/>
+      <input type="button" value='look up' onclick="handleClick()">
     </Form>
     <h2>Children and Young People Decile: <span style="color: red" id="apiValue">0</span></h2>
-    <script src="./lookUp.js"></script>
-  </body>
+    
+    <script>
+      const getFormData = () => document.getElementById('postcodeForm').value;
+
+      const handleClick = () => updateDisplay(getFormData());
+
+      const updateDisplay = number => document.getElementById('apiValue').innerText = number;
+    </script>
+ 
+</body>
 </html> 
